@@ -1,30 +1,27 @@
 <!-- omit in toc -->
 # Awesome-Reasoning-Action-LLMs-LMMs
 
-This repo contains a list of papers and other resources for those interested on research of techniques to improve the ability of Large Language and Multimodal models (LLMMs) on tasks that require "reasoning" and "decision-making" - as perceived by humans. 
-
-This includes techniques aimed at static problems (e.g.: Math Q&A answering, static planning for BlocksWorld), as well as multi-step problems with environment interactions (e.g.: Web/GUI navigation; Embodied AI & Robotics).
+This repo provides a list of papers and other for researchers interested in enhancing the performance of Large Language and Multimodal models (LLMMs) on tasks that require "reasoning" and "decision-making". This includes techniques aimed at static problems (e.g.: Math Q&A answering, static planning for BlocksWorld), as well as multi-step problems with environment interactions (e.g.: Web/GUI navigation; Embodied AI & Robotics).
 
 The emphasis is on **inference-time techniques**, but some papers involving training have been included as well. 
 
-
 **NOTES**
 - This repo is **under construction**.
-- The categories are not perfect and should be used as a guide only. Many papers fall into several categories, especially papers adopting Agentic approaches.
+- The categorization of papers is intended as a general guide and is not perfect. Many papers span multiple categories and coule be included in more than one category - particularly those adopting agentic approaches.
 - Check the spreadsheets for more papers, notes, git repos, webpags, etc.
 
 <!-- omit in toc -->
 ## TODO
 - [ ] Update Web/GUI Agents references and add to repo.
-- [ ] Add remaining Reasoning-Acting references to the list.
+- [ ] Add remaining Reasoning-Acting references in spreadsheet to the list.
 - [ ] Add github links.
 - [ ] Add agents focused on memory, self-reflection, etc on their corresponding sections too (and vice-versa) (or avoid duplicate entries irrespective of the focus of the paper?)
 - [ ] Add a 'grounding' category (?)
 - [ ] Separate language-only from vision-language agents
 - [ ] Add papers on Video understanding with relevant overlap (e.g.: MoReVQA: Exploring Modular Reasoning Models for Video Question Answering)
-- [ ] Refine diagrams section, add soft disambiguation for high-level concepts (Reasoning, Planning)
-- [ ] See @TODO
+- [ ] Refine diagrams section; add soft disambiguation for high-level concepts (Reasoning, Planning)
 - [ ] Upload code for spreadsheet-MD integration 
+- [ ] check @TODO for more
 
 
 <!-- omit in toc -->
