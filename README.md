@@ -3,7 +3,7 @@
 
 This repo provides a list of papers and other for researchers interested in enhancing the performance of Large Language and Multimodal models (LLMMs) on tasks that require "reasoning" and "decision-making" - as perceived by humans. This includes techniques aimed at static problems (e.g.: Math Q&A answering, static planning for BlocksWorld), as well as multi-step problems with environment interactions (e.g.: Web/GUI navigation; Embodied AI & Robotics).
 
-The emphasis is on **inference-time techniques**, but some papers involving training have been included as well. 
+The focus for now is on **inference-time techniques**. Nonetheless, some papers involving training were included as well. For example: papers involving training for CoT; training Critiques / reward models; PPO for web navigation. 
 
 **NOTES**
 - This repo is **under construction**.
