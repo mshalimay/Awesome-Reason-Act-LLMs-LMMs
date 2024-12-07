@@ -6,7 +6,7 @@ This repo provides a list of papers and other for researchers interested in enha
 The focus for now is on **inference-time techniques**. Nonetheless, some papers involving training were included as well. For example: papers involving training for CoT; training Critiques / reward models; PPO for web navigation. 
 
 **NOTES**
-- This repo is **under construction**.
+- This repo is **under construction**. It has been made public temporarily.
 - The categorization of papers is intended as a general guide and is not perfect. Many papers span multiple categories and coule be included in more than one category - particularly those adopting agentic approaches.
 - Check the spreadsheets for more papers, notes, git repos, webpags, etc.
 
