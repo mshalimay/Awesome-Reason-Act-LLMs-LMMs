@@ -1,12 +1,13 @@
 <!-- omit in toc -->
 # Awesome-Reasoning-Action-LLMs-LMMs
 
+WARNING: This repo is **under construction**. It has been made public only temporarily.
+
 This repo provides a list of papers and other for researchers interested in enhancing the performance of Large Language and Multimodal models (LLMMs) on tasks that require "reasoning" and "decision-making" - as perceived by humans. This includes techniques aimed at static problems (e.g.: Math Q&A answering, static planning for BlocksWorld), as well as multi-step problems with environment interactions (e.g.: Web/GUI navigation; Embodied AI & Robotics).
 
 The focus for now is on **inference-time techniques**. Nonetheless, some papers involving training were included as well. For example: papers involving training for CoT; training Critiques / reward models; PPO for web navigation. 
 
 **NOTES**
-- This repo is **under construction**. It has been made public temporarily.
 - The categorization of papers is intended as a general guide and is not perfect. Many papers span multiple categories and coule be included in more than one category - particularly those adopting agentic approaches.
 - Check the spreadsheets for more papers, notes, git repos, webpags, etc.
 
